@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/terrasse.json"
+                 "value":".\/terrasse.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
